@@ -158,4 +158,4 @@ def ussd_callback():
 if __name__ == '__main__':
     app.run(debug=True)
 
-# USSD BACKEND created by ENG. Esther Maina | 2025 | For Educational/demo use only
+# USSD BACKEND created by ENG. Esther Maina | 2025 | For Educational/demo use only~
